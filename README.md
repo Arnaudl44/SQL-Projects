@@ -13,14 +13,7 @@ Ce dépôt contient plusieurs projets SQL illustrant mes compétences en analyse
      - Analyse de la diversité des prénoms par état et par année.  
      - Visualisation des évolutions pour identifier des tendances culturelles.  
 
-2. **[Base de données de films](./Project2_MoviesDatabase/README.md)**  
-   - **Objectif** : Exploration d'une base de données de films pour comprendre les performances des productions et les préférences des spectateurs.  
-   - **Contenu** :  
-     - Analyse des genres les plus populaires.  
-     - Étude des performances financières par catégorie.  
-     - Exploration des évaluations des spectateurs et de leur impact sur le box-office.  
-
-3. **[Analyse marketing pour une entreprise e-commerce](./Project3_MarketingAnalysis/README.md)**  
+2. **[Analyse marketing pour une entreprise e-commerce](./Project3_MarketingAnalysis/README.md)**  
    - **Objectif** : Évaluation des performances marketing pour une entreprise fictive spécialisée dans le e-commerce.  
    - **Contenu** :  
      - Analyse du funnel de conversion pour mesurer l'efficacité des campagnes.  
