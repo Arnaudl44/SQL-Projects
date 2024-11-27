@@ -41,10 +41,10 @@ Le projet est organisé autour de **4 objectifs principaux**, chacun accompagné
 
 ## 📁 **Structure des fichiers**
 Le projet est organisé en plusieurs fichiers SQL, regroupés par objectif :
-- `objective1_track_popularity.sql` : Analyse des changements de popularité des prénoms.
-- `objective2_compare_decades.sql` : Comparaison des prénoms populaires par décennies.
-- `objective3_compare_regions.sql` : Comparaison des prénoms populaires par région.
-- `objective4_explore_unique_names.sql` : Exploration des prénoms uniques.
+- `objective_1_track_popularity.sql` : Analyse des changements de popularité des prénoms.
+- `objective_2_compare_decades.sql` : Comparaison des prénoms populaires par décennies.
+- `objective_3_compare_regions.sql` : Comparaison des prénoms populaires par région.
+- `objective_4_explore_unique_names.sql` : Exploration des prénoms uniques.
 
 Chaque fichier contient des requêtes détaillées et documentées pour répondre à l'objectif correspondant.
 
