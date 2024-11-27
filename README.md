@@ -16,9 +16,10 @@ Ce dépôt contient plusieurs projets SQL illustrant mes compétences en analyse
 2. **[Analyse marketing pour une entreprise e-commerce](./Project3_MarketingAnalysis/README.md)**  
    - **Objectif** : Évaluation des performances marketing pour une entreprise fictive spécialisée dans le e-commerce.  
    - **Contenu** :  
-     - Analyse du funnel de conversion pour mesurer l'efficacité des campagnes.  
-     - Calcul des indicateurs clés de performance (CAC, CLV).  
-     - Recommandations stratégiques basées sur les résultats de l'analyse.  
+     - Évaluation des tendances des canaux d'acquisition (GSearch, BSearch, etc.).
+     - Analyse détaillée des taux de conversion par canal et par appareil.
+     - Impact des tests A/B sur les pages d'atterrissage et les pages de facturation.
+     - Recommandations stratégiques basées sur les résultats de l'analyse.
 
 ---
 
