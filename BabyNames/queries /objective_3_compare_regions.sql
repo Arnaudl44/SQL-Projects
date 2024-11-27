@@ -1,5 +1,5 @@
 -- ==============================================================
--- Fichier : objective3_compare_regions.sql
+-- Fichier : objective_3_compare_regions.sql
 -- Objectif : Contient les requêtes SQL utilisées pour comparer 
 --            la popularité des prénoms par région.
 -- ==============================================================
