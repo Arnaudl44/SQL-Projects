@@ -1,5 +1,5 @@
 -- ==============================================================
--- Fichier : objective2_compare_decades.sql
+-- Fichier : objective_2_compare_decades.sql
 -- Objectif : Contient les requêtes SQL utilisées pour comparer 
 --            la popularité des prénoms par décennies.
 -- ==============================================================
