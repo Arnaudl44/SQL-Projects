@@ -13,7 +13,7 @@ Ce dépôt contient plusieurs projets SQL illustrant mes compétences en analyse
      - Analyse de la diversité des prénoms par état et par année.  
      - Visualisation des évolutions pour identifier des tendances culturelles.  
 
-2. **[Analyse marketing pour une entreprise e-commerce](./Project3_MarketingAnalysis/README.md)**  
+2. **[Analyse marketing pour une entreprise e-commerce](https://github.com/Arnaudl44/SQL-Projects/blob/main/Marketing%20%26%20Conversion%20Optimization%20Analysis/README.md)**  
    - **Objectif** : Évaluation des performances marketing pour une entreprise fictive spécialisée dans le e-commerce.  
    - **Contenu** :  
      - Évaluation des tendances des canaux d'acquisition (GSearch, BSearch, etc.).
