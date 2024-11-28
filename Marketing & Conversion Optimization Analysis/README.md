@@ -83,5 +83,3 @@ De **2012 à 2015**
 Sources de trafic, type d’appareil, commandes, sessions, campagnes marketing.
 
 ---
-
-Ce projet démontre l'utilisation de **techniques SQL avancées** pour exploiter des données marketing et fournir des recommandations basées sur des résultats concrets.
