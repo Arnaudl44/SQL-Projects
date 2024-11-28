@@ -31,11 +31,3 @@ Ce dépôt contient plusieurs projets SQL illustrant mes compétences en analyse
 - **Exploration de données** : Compréhension des tendances et des performances clés.
 
 ---
-
-## 🚀 Instructions :
-
-1. Clonez ce dépôt :  
-   ```bash
-   git clone https://github.com/ArnaudL44/SQL-Projects.git
-2. Importez les jeux de données disponibles dans les projets (data/) dans votre outil SQL préféré.
-3. Testez les requêtes fournies dans le dossier queries/ pour chaque projet.
