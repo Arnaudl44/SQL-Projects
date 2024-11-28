@@ -6,7 +6,7 @@ Ce dépôt contient plusieurs projets SQL illustrant mes compétences en analyse
 
 ## Projets inclus :
 
-1. **[Analyse des prénoms aux États-Unis](./Project1_BabyNames/README.md)**  
+1. **[Analyse des prénoms aux États-Unis](https://github.com/Arnaudl44/SQL-Projects/blob/main/BabyNames/README.md)**  
    - **Objectif** : Analyse des tendances de popularité des prénoms aux États-Unis sur plusieurs décennies.  
    - **Contenu** :  
      - Calcul des prénoms les plus populaires par période.  
